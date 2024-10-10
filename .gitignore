@@ -1,0 +1,7 @@
+*/*.docx
+*/*.pdf
+*/.DS_Store
+*/.idea
+*/.vscode
+*/target
+*/*.xml
