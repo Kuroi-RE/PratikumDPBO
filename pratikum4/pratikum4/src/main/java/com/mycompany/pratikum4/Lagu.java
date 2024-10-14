@@ -14,7 +14,7 @@ public class Lagu {
     
     void IsiParam(String params) {
         judul = params;
-        pencipta = "tidak di ketahui";
+        pencipta = "tidak di ketaui";
     }
     
     void IsiParam(String param1, String param2) {

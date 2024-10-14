@@ -30,5 +30,6 @@ public class Pratikum3 {
         
         double travelTimeWithCustomSpeed = car.calculateTravelTime(time, 80.0);
         System.out.println("Travel Time for = "+ speed + " km with custom speed " + customTime + " km/h" + travelTimeWithCustomSpeed + " hours");
+        
     }
 }
